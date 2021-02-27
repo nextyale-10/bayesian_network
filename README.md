@@ -1,6 +1,5 @@
 # bayesian_network
-Author: Chen Yao 
-email: cyao10@u.rochester.edu
+
 
 Description: This project contains 4 inferencers: Enumeration, RejectionSampling, LikelihoodWeighting, GibbsSampling. You need to give the program xml or bif
 files for constructing bayesian network, and you also need to give some 
